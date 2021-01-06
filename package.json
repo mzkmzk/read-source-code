@@ -1,0 +1,19 @@
+{
+  "name": "read-source-code",
+  "version": "0.0.1",
+  "description": "read-source-code",
+  "main": "index.js",
+  "authors": {
+    "name": "maizhikun",
+    "email": ""
+  },
+  "repository": "git@github.com:mzkmzk/read-source-code.git/read-source-code",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
